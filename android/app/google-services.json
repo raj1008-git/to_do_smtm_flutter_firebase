@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852386985178",
+    "project_id": "smtm-capital",
+    "storage_bucket": "smtm-capital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852386985178:android:e1ff5e787cb79d2a7e21e3",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm8CkI1kuXb-BKuCSatvgAlWHD4_Z37H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
